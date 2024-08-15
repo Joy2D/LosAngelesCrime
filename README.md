@@ -47,38 +47,8 @@ Visualization Creation Process
 Dashboard 1 - Crime Trends Over Time
 The first dashboard, "Crime Trends Over Time," provides a comprehensive overview of crime patterns. It incorporates a bar chart illustrating the crime trend across multiple years and a line chart displaying the overall crime trend over time. Additionally, a line chart is utilized to depict the monthly variation in crime occurrences throughout the year. To further analyze crime distribution, a bar chart is implemented to showcase the crime trend in various geographic areas.
  
-
 Dashboard 2 - Crime Analysis by Area
 The second dashboard, "Crime Analysis by Area," focuses on crime insights based on geographical locations. It includes a bar chart showing the overall crime count in each area and another bar chart revealing the number of crimes involving weapons across different locations. A stacked bar chart is utilized to present the distribution of crime types in areas with high crime rates. Additionally, a map visualization provides a geographical perspective, depicting crime locations and their density across different areas.
- 
-
-
-
 
 Dashboard 3 - Crime Patterns based on Victim Demographics: 
 The third dashboard, "Crime Patterns based on Victim Demographics," emphasizes understanding crime trends related to victim characteristics. A bar chart is used to analyze the gender distribution of crime victims in various locations. To compare crime occurrences by gender, a side-by-side bar chart is employed. Furthermore, another bar chart is implemented to showcase crime occurrences based on victim gender and age groups. Lastly, a bar chart is used to analyze the genders most affected by crimes involving weapons.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-Visuals
-Dashboard 1 – Crime Trends Over Time
-
- 
-
-
-Dashboard 2 – Crime Analysis by Area
- 
-
-Dashboard 3 – Crime Patterns based on Victim Demographics
- 
-
